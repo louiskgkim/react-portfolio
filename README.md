@@ -1,7 +1,7 @@
 # react-portfolio
 
 ## Description
-This text editor is a web-based application that can be installed on a computer and runs in a browser. The editor was built using a combination of several technologies such as webpack, service-worker, express, javascript, css, and html. This app is a single-page application that meets the PWA criteria.
+This is a portfolio using React to share my projects while applying for jobs or working as a freelancer but also so that I can share my work with fellow developers and collaborate on future projects.
 
 ## Table of Contents
 
@@ -10,8 +10,7 @@ This text editor is a web-based application that can be installed on a computer 
 - [License](#license)
 
 ## Screenshots
-![Local test](https://user-images.githubusercontent.com/115679155/228111435-56189116-a5f9-4dad-a876-c00a679225b3.png)
-![Install](https://user-images.githubusercontent.com/115679155/228703100-358b2871-6e91-44db-bdc2-1651944d7675.png)
+
 
 
 ### Repository:
