@@ -2,7 +2,7 @@ import React from 'react';
 // TODO: Add a comment explaining what this import statement is doing
 // This import statement is importing a component named "HelloReact" from 
 // the "./components/HelloReact" file path. 
-import HelloReact from './components/HelloReact';
+import HelloReact from './components/about';
 
 // TODO: Add a comment explaining the purpose of the App component
 // The purpose of the App component is to act as a container or 
