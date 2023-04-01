@@ -5,9 +5,17 @@ This is a portfolio using React to share my projects while applying for jobs or 
 
 ## Table of Contents
 
+- [Installation](#installation)
 - [Screenshots](#screenshots)
 - [Credits](#credits)
 - [License](#license)
+
+## Installation
+Some files will be needed in order for this generator to operate:
+
+- react @17.0.2
+- react-scripts @5.0.1
+- react-dom @17.0.2
 
 ## Screenshots
 
@@ -21,13 +29,7 @@ https://github.com/louiskgkim/react-portfolio
 
 ## Credits
 
-No collaborators for this project. But some references are listed below:
-
-- [Express.js Installation Guide](https://expressjs.com/en/starter/installing.html)
-- [Webpack Installation Guide](https://www.npmjs.com/package/webpack)
-- [Concurrently Installation Guide](https://www.npmjs.com/package/concurrently)
-- [if-env Installation Guide](https://www.npmjs.com/package/if-env)
-
+No collaborators for this project. 
 
 ## License
 
