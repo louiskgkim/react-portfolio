@@ -24,10 +24,10 @@ function Resume() {
         <p className="content is-large">Skills</p>
         <hr />
         <ul>
-          <li>HTML, CSS, Javascript</li>
-          <li>Webpack, MVC, MySQL</li>
-          <li>jQuery, Git, Github Repo</li>
-          <li>Bootstrap, React</li>
+          <li>HTML, CSS, Javascript,</li>
+          <li>Webpack, MVC, MySQL,</li>
+          <li>jQuery, Git, Github Repo,</li>
+          <li>Bootstrap, React,</li>
           <li>Express.js, Node.js</li>
         </ul>
       </div>
