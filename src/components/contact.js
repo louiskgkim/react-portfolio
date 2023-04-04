@@ -17,8 +17,26 @@ function Contact() {
     if (e.target.name === "email") {
       const validate = validateEmail(e.target.value);
 
-      if (!validate)
-    }
-}
+      if (!validate) {
+        setErrorMessage("Please enter a valid email.");
+      } else {
+        setErrorMessage("");
+      }
+    } else if (!e.target.value.length) {
+      setErrorMessage(`${e.target.name} is required.`);
+    } else setErrorMessage();
 
-export default Contact;
+    if (!errorMessage) {
+      setFormState({ ...formState, [e.target.name]: e.target.value });
+    }
+  }
+
+  function handleSubmit(e) {
+    e.preventDefault();
+  }
+
+  return {
+    <div>
+    
+  }
+  export default Contact;
