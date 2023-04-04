@@ -9,6 +9,16 @@ function Contact() {
     message: "",
   });
 
+  const [errorMessage, setErrorMessage] = useState("");
+
+  const { name, email, message } = formState;
+
+  function handleChange(e) {
+    if (e.target.name === "email") {
+      const validate = validateEmail(e.target.value);
+
+      if (!validate)
+    }
 }
 
 export default Contact;
