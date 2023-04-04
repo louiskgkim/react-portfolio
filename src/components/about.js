@@ -3,7 +3,7 @@ import React from "react";
 function About() {
   return (
     <div>
-      <p className="content is-large">Full Stack/Junior Developer Developer</p>
+      <p className="content is-large">Full Stack/Junior Developer</p>
       <hr />
       <img
         className="pic"
