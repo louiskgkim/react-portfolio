@@ -3,35 +3,51 @@
 ## Description
 This is a portfolio using React to share my projects while applying for jobs or working as a freelancer but also so that I can share my work with fellow developers and collaborate on future projects.
 
-## Table of Contents
+## Table of Contents:
 
 - [Installation](#installation)
 - [Screenshots](#screenshots)
+- [Live Site](#livesite)
 - [Credits](#credits)
 - [License](#license)
 
-## Installation
+## Installation:
 Some files will be needed in order for this generator to operate:
 
 - react @17.0.2
 - react-scripts @5.0.1
 - react-dom @17.0.2
 
-## Screenshots
+## Screenshots:
+### About:
+![About](https://user-images.githubusercontent.com/115679155/229963471-0c0343ba-8756-4232-8bad-e0c11c96fc0f.png)
+
+### Contact:
+![Contact](https://user-images.githubusercontent.com/115679155/229963477-0d4e6caf-f68d-4ad4-bd58-d11117997099.png)
+
+### Portfolio:
+![Portfolio](https://user-images.githubusercontent.com/115679155/229963481-aa4e088e-716b-4642-ad39-b5818c21d6af.png)
+
+### Resume:
+![Resume](https://user-images.githubusercontent.com/115679155/229963484-d391a077-21b0-4e15-998c-2ce6aec92d73.png)
 
 
+## Live Site:
+```
+https://hidden-river-42047.herokuapp.com/
+```
 
-### Repository:
+## Repository:
 ```
 https://github.com/louiskgkim/react-portfolio
 ```
 
 
-## Credits
+## Credits:
 
 No collaborators for this project. 
 
-## License
+## License:
 
 MIT License
 
