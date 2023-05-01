@@ -55,6 +55,16 @@ const projects = [
       "This weather dashboard will show today's current weather data and the next five days weather forecast of the searched city.",
     repo: "https://github.com/louiskgkim/Weather-Dashboard",
   },
+  {
+    id: 5,
+    title: "LuxBox",
+    languages: "html, css, js",
+    packages: "express, apollo-server-express, graphql, mongoose",
+    image: "/images/Luxbox.png",
+    description:
+      "A centralized platform for luxury goods where the shopping experience for frequent luxury good purchasers and attract more customers to the platform.",
+    repo: "",
+  },
 ];
 
 function Portfolio() {
