@@ -63,7 +63,7 @@ const projects = [
     image: "/images/Luxbox.png",
     description:
       "A centralized platform for luxury goods where the shopping experience for frequent luxury good purchasers and attract more customers to the platform.",
-    repo: "",
+    repo: "https://github.com/louiskgkim/luxbox-mern-app-copy",
   },
 ];
 
